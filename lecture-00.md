@@ -58,11 +58,11 @@
 ## Online Lectures 
 
 - Deep Learning Specialization by Andrew Ng
-  - 1. Neural Networks and Deep Learning [Link](https://www.youtube.com/watch?v=CS4cs9xVecg&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0)
-  - 2. Improving Deep Neural Networks [Link](https://www.youtube.com/watch?v=1waHlpKiNyY&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc)
-  - 3. Structuring Machine Learning Projects [Link](https://www.youtube.com/watch?v=dFX8k1kXhOw&list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b)
-  - 4. Convolutional Neural Networks [Link](https://www.youtube.com/watch?v=ArPaAX_PhIs&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
-  - 5. Sequence Models [Link](https://www.youtube.com/watch?v=_i3aqgKVNQI&list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6)
+  1. Neural Networks and Deep Learning [Link](https://www.youtube.com/watch?v=CS4cs9xVecg&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0)
+  2. Improving Deep Neural Networks [Link](https://www.youtube.com/watch?v=1waHlpKiNyY&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc)
+  3. Structuring Machine Learning Projects [Link](https://www.youtube.com/watch?v=dFX8k1kXhOw&list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b)
+  4. Convolutional Neural Networks [Link](https://www.youtube.com/watch?v=ArPaAX_PhIs&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
+  5. Sequence Models [Link](https://www.youtube.com/watch?v=_i3aqgKVNQI&list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6)
 
 - Convolutional Neural Networks for Visual Recognition (Stanford) [Link](https://cs231n.stanford.edu/)
 
