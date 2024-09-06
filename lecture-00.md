@@ -73,7 +73,7 @@
   - Convolutional Neural Networks [Link](https://www.youtube.com/watch?v=ArPaAX_PhIs&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
   - Sequence Models [Link](https://www.youtube.com/watch?v=_i3aqgKVNQI&list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6)
 
-- Convolutional Neural Networks for Visual Recognition (Stanford) [Link](https://cs231n.stanford.edu/)
+- Convolutional Neural Networks for Visual Recognition (Stanford) [Link](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 
 ## Reference
 
