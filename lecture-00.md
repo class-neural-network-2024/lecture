@@ -27,8 +27,8 @@
 ## Contents
 
 - Image Classification
-- Image Denoising
-- Image Segmentation
+- Image Denoising (Supervised, Unsupervised)
+- Image Segmentation (Supervised, Unsupervised)
 - Image Inpainting
 - Image Generation
 - Sequential Prediction
