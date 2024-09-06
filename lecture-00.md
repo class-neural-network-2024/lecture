@@ -15,6 +15,14 @@
 - Students are expected to study using the online lectures
 - Students are expected to implement deep learning algorithms in Python
 
+## Prerequisite
+
+- Basic machine learning theories (objective function, optimization, regression, regularization)
+- Python programming skills
+- [Python tutorial](https://cs231n.github.io/python-numpy-tutorial/)
+- [PyTorch tutorial](https://pytorch.org/tutorials/)
+- [PyTorch on Google Colab](https://colab.research.google.com/github/phlippe/uvadlc_notebooks/blob/master/docs/tutorial_notebooks/tutorial2/Introduction_to_PyTorch.ipynb)
+
 ## Contents
 
 - Image Classification
