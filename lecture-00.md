@@ -59,8 +59,6 @@
 - Discussions among students are not allowed
 - Cheating will result in the immediate fail of the class
 - Deadline is set to be 11:59 pm in GitHub and Google Classroom, but the actual deadline is always 11:30 pm instead
-- `git commit -am "initial commit"` and `git commit -am "final commit"` are required at the beginning and the end of the programming
-- `git commit` is required to effectively demonstrate the programsming steps
 
 ### Exams
 
