@@ -64,8 +64,7 @@
   - 4. Convolutional Neural Networks [Link](https://www.youtube.com/watch?v=ArPaAX_PhIs&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
   - 5. Sequence Models [Link](https://www.youtube.com/watch?v=_i3aqgKVNQI&list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6)
 
-- Convolutional Neural Networks for Visual Recognition (Stanford)
-  - [Link](https://cs231n.stanford.edu/)
+- Convolutional Neural Networks for Visual Recognition (Stanford) [Link](https://cs231n.stanford.edu/)
 
 ## Reference
 
